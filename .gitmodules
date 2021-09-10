@@ -1,0 +1,3 @@
+[submodule "wdasec-announcement-crawler"]
+	path = wdasec-announcement-crawler
+	url = https://github.com/CRT-HAO/wdasec-announcement-crawler
