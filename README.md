@@ -13,6 +13,7 @@ git submodule update
  - BeautifulSoup4 `pip3 install beautifulsoup4`
  - pyFlarum `pip3 install pyflarum`
  - pytablewriter `pip3 install pytablewriter`
+ - python-dotenv `pip3 install python-dotenv`
 3. 編寫配置檔
 在目錄下新增`.env`檔案
 ```
