@@ -8,7 +8,13 @@
 git submodule init
 git submodule update
 ```
-2. 安裝相依套件
+2. 安裝相依套件  
+
+自動安裝全部
+```
+pip3 install -r requirements.txt
+```
+或 手動安裝  
  - requests `pip3 install requests`
  - BeautifulSoup4 `pip3 install beautifulsoup4`
  - pyFlarum `pip3 install pyflarum`
