@@ -30,3 +30,5 @@ discussion_id = 用於發布更新的Flarum論壇討論串
 ```
 python3 main.py
 ```
+## 範例
+[https://taiwanskills.cish.xyz/d/11-51](https://taiwanskills.cish.xyz/d/11-51)
